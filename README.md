@@ -31,5 +31,5 @@ License
 -------
 
 Copyright (c) 2011-2012, The Android Open Source Project
-Licensed under the Apache License, Version 2.0
-See file COPYING for details
+
+Licensed under the Apache License, Version 2.0. See file COPYING for details.
