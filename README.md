@@ -2,7 +2,7 @@ Roboto for Fontconfig
 =====================
 
 This version of Google's Roboto font has fontconfig-compatible metadata. This
-means that font pickers in Linux will not just show all 16 style variants, but
+means that font pickers in Linux will not just show all 18 style variants, but
 when choosing one, fontconfig will give you the expected font!
 
 
@@ -25,11 +25,12 @@ I opened all files in FontForge and changed
 * Postscript weight
 * TTF styles
 * OS/2 weight class (only for Black and Thin variants)
+* OS/2 width class for the Roboto Condensed family
 
 
 License
 -------
 
-Copyright (c) 2011-2012, The Android Open Source Project
+Copyright (c) 2011-2014, Christian Robertson
 
 Licensed under the Apache License, Version 2.0. See file COPYING for details.
